@@ -1,2 +1,1 @@
-# portfolio
-REACT TAILWIND CSS AND NEXT JS FOR BACK END
+# ethan-portfolio-starter
